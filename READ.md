@@ -1,0 +1,1 @@
+just a simple react calculator with night and day mode, feel free to modify it's public
